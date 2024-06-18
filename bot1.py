@@ -2,8 +2,8 @@ import bot1-extended
 import telebot , requests , random , time , re , threading , sqlite3 , datetime
 from datetime import datetime, timedelta
 
-BOT_TOKEN = '5880937101:AAEaJH8sO1coKephJjf4Bq1d4WI1Q3FwJpY'
-CHAT_ID = '6142127925'
+BOT_TOKEN = ''
+CHAT_ID = ''
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
