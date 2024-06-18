@@ -8,8 +8,8 @@ import threading
 from datetime import datetime,timedelta
  
 #telegram bot
-bot_token = '5880937101:AAEaJH8sO1coKephJjf4Bq1d4WI1Q3FwJpY' 
-chat_id = '6142127925'
+bot_token = '' 
+chat_id = ''
 #requests.get(bot_url)
 
 def astronomy():
