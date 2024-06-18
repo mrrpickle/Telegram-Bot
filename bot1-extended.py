@@ -2,8 +2,8 @@ import requests ,datetime , time , math ,json
 from bs4 import BeautifulSoup
 
 
-BOT_TOKEN = '5880937101:AAEaJH8sO1coKephJjf4Bq1d4WI1Q3FwJpY'
-CHAT_ID = '6142127925'
+BOT_TOKEN = ''
+CHAT_ID = ''
 
 def bot(text):
     URL = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage?chat_id={CHAT_ID}&text={text}"
